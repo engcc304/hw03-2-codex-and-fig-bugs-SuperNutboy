@@ -11,7 +11,7 @@ if(_1!=0) {
     printf(" ok ");
 }   else {
         while(i<=5) {
-            printf(" not-okey-%d ", ++i);
+            printf(" not-okey-%d ",++i);
         }
     }
 for(i=3;i<10;i+=1) {
